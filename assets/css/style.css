@@ -1,3 +1,125 @@
-p {
-	color: red;
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-size: 1.5rem;
+}
+.section {
+	position: relative;
+	width: 100%;
+	max-width:600px;
+	margin-bottom: 200px;
+}
+.main {
+	width: 100%;
+}
+.allWords {
+	position: absolute;
+}
+#p1Words1 {
+	top: 2%;
+	left: 6%;
+	margin-top: 0px;
+}
+#p1Words1 h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#p1Words1 p {
+	margin-top: 0px;
+}
+.pink {
+	position: absolute;
+	width: 12%;
+}
+.pink:hover {
+	width: 13%;
+}
+#pink1 {
+	top: 20%;
+	left: 6%;
+}
+#p1Words2 {
+	top: 17%;
+	left: 19%;
+}
+#pink2 {
+	top: 70%;
+	left: 6%;
+}
+#p1Words3 {
+	top: 67%;
+	left: 19%;
+}
+#pink3 {
+	top: 79%;
+	left: 6%;
+}
+#p1Words4 {
+	top: 76%;
+	left: 19%;
+}
+#pink4 {
+	top: 89%;
+	left: 6%;
+}
+#p1Words5 {
+	top: 86%;
+	left: 19%;
+}
+footer {
+	position: fixed;
+	top: 92%;
+	width: 100%;
+}
+.logo {
+	width: 15%;
+	margin: 8px;
+}
+.source {
+	font-size: 0.8rem;
+}
+#p2Words1 {
+	position: absolute;
+	top: 5%;
+	left: 6%;
+}
+#p2Words2 {
+	position: absolute;
+    top: 25%;
+    left: 35%;
+    font-size: 1rem;	
+}
+#p2Words3 {
+	position: absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 1rem;
+}
+#p2Words4 {
+	position: absolute;
+    top: 50%;
+    left: 75%;
+    font-size: 1rem;
+}
+#p2Words5 {
+	position: absolute;
+    top: 67%;
+    left: 12%;
+    font-size: 1rem;
+}
+#p2pink1 {
+	top: 85%;
+	left: 6%;
+}
+#p2pink2 {
+	top: 85%;
+	left: 86%;
+}
+#p2Words6 {
+	top: 82%;
+	left: 19%;
+}
+#p2Words7 {
+	top: 82%;
+	left: 69%;
 }
