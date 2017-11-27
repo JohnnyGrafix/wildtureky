@@ -85,8 +85,8 @@ footer {
 }
 #p2Words2 {
 	position: absolute;
-    top: 25%;
-    left: 35%;
+    top: 22%;
+    left: 38%;
     font-size: 1rem;	
 }
 #p2Words3 {
@@ -233,11 +233,12 @@ footer {
 }
 #p6Words3 {
 	position: absolute;
-	top: 21%;
+	top: 26%;
 	left: 17%;
+	font-size: 1rem;
 }
 #p6grey1 {
-	top: 25%;
+	top: 29%;
 	left: 5.3%;
 }
 #p6pink1 {
@@ -264,21 +265,23 @@ footer {
 }
 #p7Words3 {
 	position: absolute;
-	top: 21%;
+	top: 26%;
 	left: 17%;
+	font-size: 1rem;
 }
 #p7grey1 {
-	top: 25%;
+	top: 29%;
 	left: 5.3%;
 }
 #p7grey2 {
-	top: 38%;
+	top: 41%;
 	left: 5.3%;
 }
 #p7Words4 {
 	position: absolute;
-	top: 35%;
+	top: 38%;
 	left: 17%;
+	font-size: 1rem;
 }
 #p7pink1 {
 	top: 58%;
@@ -304,15 +307,16 @@ footer {
 }
 #p8Words3 {
 	position: absolute;
-	top: 21%;
+	top: 26%;
 	left: 17%;
+	font-size: 1rem;
 }
 #p8grey1 {
-	top: 25%;
+	top: 29%;
 	left: 5.3%;
 }
 #p8grey2 {
-	top: 38%;
+	top: 41%;
 	left: 5.3%;
 }
 #p8grey3 {
@@ -321,13 +325,15 @@ footer {
 }
 #p8Words4 {
 	position: absolute;
-	top: 35%;
+	top: 38%;
 	left: 17%;
+	font-size: 1rem;
 }
 #p8Words5 {
 	position: absolute;
 	top: 55%;
 	left: 17%;
+	font-size: 1rem;
 }
 
 #p8pink2 {
